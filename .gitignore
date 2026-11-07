@@ -1,0 +1,15 @@
+# Local notes / credentials
+secrets.md
+*.secret
+*.secret.yaml
+.env
+.env.*
+
+# Kubeconfig
+kubeconfig
+*.kubeconfig
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
